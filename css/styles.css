@@ -4,6 +4,12 @@ body {
     font-family: Inter, Sora, Arial, sans-serif;
 }
 
+.country {
+    margin-top: 25px;
+    width: 450px;
+    height: auto;
+}
+
 .topnav {
     overflow: hidden;
     background-color: hsl(207, 95%, 8%);
@@ -14,7 +20,7 @@ body {
     text-align: center;
     padding: 14px 16px;
     font-size: 20px;
-    color: hsl(113, 39%, 46%);
+    color: hsl(153, 73%, 56%);
     text-decoration: none;
 }
 
